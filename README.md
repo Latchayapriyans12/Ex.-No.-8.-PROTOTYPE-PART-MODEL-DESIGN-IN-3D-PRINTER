@@ -1,4 +1,4 @@
-![Screenshot 2025-04-17 115816](https://github.com/user-attachments/assets/ca5ae6c6-c614-49aa-ace1-fed0fd17eb14)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
